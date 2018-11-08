@@ -1,0 +1,527 @@
+
+
+body{
+
+  background-color: #F7F7F7;
+  font-family: sans-serif;
+  color:#353b48!important;
+}
+
+h1{:#353b48;}
+h2{:#353b48;}
+h3{:#353b48;}
+h4{:#353b48;}
+h5{:#353b48;}
+h6{:#353b48;}
+
+
+
+
+
+.container-email{
+
+  margin-left:190px;
+
+
+}
+
+.container {
+  padding: 10px;
+  height:auto;
+
+
+
+
+}
+
+.marcadagua{
+
+background-image:url(../img/marcadagua.jpeg);
+background-repeat: no-repeat;
+height: 420px;
+margin-left: 75px;
+
+}
+
+.marcadagua2{
+
+background-image:url(../img/marcadagua.jpeg);
+background-repeat: no-repeat;
+height: 820px;
+margin-top: 550px;
+
+
+}
+
+
+.container2 {
+  padding: 15px;
+  margin-top:-25px;
+  height:auto;
+
+}
+/*.container-2 {
+
+  display: grid;
+
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 40px;
+  background: #35357F;
+  grid-gap:1rem;
+
+
+}*/
+
+
+.container3 {
+  padding: 15px;
+  margin-top:-25px;
+  height: auto;
+}
+
+
+
+.alinhamento-1{
+
+display: inline-block;
+width: 100%;
+height: 180px;
+/*border:1px solid #000;*/
+
+}
+
+.p-form{
+  color:#333;
+  font-weight: bold;
+  text-align: left;
+  margin-left: 190px;
+
+}
+
+.p-form2{
+  color:#333;
+  font-weight: bold;
+  text-align: left;
+
+}
+
+.text-condicoes{
+
+  margin-right: 180px;
+
+
+}
+
+.reta-topo {
+  width: 890px;
+  height: 40px;
+  padding: 5px;
+  background-color: #FEC212;
+  margin-top: 30px;
+}
+
+.reta-topo2 {
+  width: 890px;
+  height: 80px;
+  padding: 5px;
+  background-color:#FEC212;
+  margin-top: 30px;
+  text-align:left;
+  color: #333;
+}
+.equipamentos{
+
+  width: 890px;
+  height: 80px;
+  padding: 5px;
+  background-color:#FEC212!important;
+  /*margin-top: 30px;*/
+  text-align:left;
+  color: #333;
+  margin-top: 500px;
+}
+
+.equipe-op{
+
+  width: 890px;
+  height: 40px;
+  padding: 20px;
+  background-color:#FEC212!important;
+  /*margin-top: -400px;*/
+  text-align:left;
+  color: #333;
+}
+
+
+.text-central {
+  width: 890px;
+  height: 40px;
+  padding: 5px;
+  /*background-color: #FEC212;*/
+  margin-top: 30px;
+  text-align: left;
+}
+
+.sonorizacao{
+  float: left;
+  margin-left: 170px;
+  text-transform: uppercase;
+}
+
+h3 {
+  color: #333;
+  float: left;
+  text-align: justify;
+}
+
+h4 {
+  color: #333;
+  float: left;
+  text-align: justify;
+}
+
+
+.sub-title-sonorizacao{
+
+  color:#333;
+  text-align: center;
+  margin-top: -500px;
+  float: left;
+  margin-left: 150px;
+
+
+}
+
+/*.imagem {
+  background-image: url(../img/marcadagua.jpeg);
+}*/
+
+.reta-topo {
+  width: 890px;
+  height: 40px;
+  padding: 5px;
+  background-color: #FEC212;
+  margin-top: 30px;
+}
+
+.titulo-2{
+
+    width: 890px;
+    height: 40px;
+    padding: 5px;
+    background-color: #FEC212;
+    margin-top: 50px;
+  }
+
+
+}
+
+.text_campo {
+  float: left;
+}
+
+input[type="text"] {
+  width: 720px;
+  margin-left: 190px;
+  height: 20px;
+  padding: 5px;
+  background-color: #FEC212;
+  margin-top:-15px;
+  border: 1px solid #333;
+  border-radius: none;
+  margin-right: 20px;
+}
+
+input[type="email"] {
+  width: 250px;
+  margin-left: 190px;
+  height: 20px;
+  padding: 5px;
+  background-color:#FEC212;
+  margin-top: -15px;
+  border: 1px solid #333;
+  border-radius: none;
+  margin-right:55px;
+}
+
+input[type="tel"] {
+  width: 280px;
+  height: 20px;
+  padding: 5px;
+  background-color: #FEC212;
+  margin-top: -15px;
+  border: 1px solid #333;
+  border-radius: none;
+  align-items: center;
+
+}
+
+.fax-input[type="tel"] {
+  width: 280px;
+  display: inline;
+  margin-left: 190px;
+  height: 20px;
+  padding: 5px;
+  background-color: blue;
+  margin-top: 3px;
+  border: 1px solid #333;
+  border-radius: none;
+  margin-right: 120px;
+
+}
+
+
+
+.local-input[type="tel"] {
+  width: 720px;
+
+  height: 20px;
+  padding: 5px;
+  background-color: #FEC212;
+  margin-top:-15px;
+  border: 1px solid #333;
+  border-radius: none;
+  margin-right: 120px;
+}
+
+.idiomas-input[type="tel"] {
+  width: 720px;
+
+  height: 20px;
+  padding: 5px;
+  background-color: #FEC212;
+  margin-top:-15px;
+  border: 1px solid #333;
+  border-radius: none;
+  margin-right: 120px;
+}
+
+.data-input[type="tel"] {
+  width: 720px;
+
+  height: 20px;
+  padding: 5px;
+  background-color: #FEC212;
+  margin-top:-15px;
+  border: 1px solid #333;
+  border-radius: none;
+  margin-right: 120px;
+}
+
+
+
+.margin-direita {
+  margin-left: 200px;
+}
+
+
+.conteudo1{
+
+  width: 350px;
+  height: 80px;
+  padding: 5px;
+  /*border: 1px solid #000;*/
+  float: left;
+  margin-left: 160px;
+  padding: 15px;
+
+}
+
+.conteudo2{
+
+  width: 350px;
+  height: 80px;
+  padding: 5px;
+  /*border: 1px solid #000;*/
+  float: right;
+  margin-right:280px;
+  padding: 15px;
+
+}
+
+
+.conteudo3{
+
+  width: 850px;
+  height: 80px;
+  padding: 5px;
+  /*border: 1px solid #000;*/
+  float: left;
+  margin-left: 175px;
+  padding: 15px;
+  display: block;
+  margin-top:2px;
+
+}
+
+
+.conteudo4{
+
+  width: 850px;
+  height: 80px;
+  padding: 5px;
+  /*border: 1px solid #000;*/
+  float: left;
+  margin-left: 175px;
+  padding: 15px;
+  display: block;
+  margin-top:2px;
+
+}
+
+.conteudo5{
+
+  width: 850px;
+  height: 80px;
+  padding: 5px;
+  /*border: 1px solid #000;*/
+  float: left;
+  margin-left: 175px;
+  padding: 15px;
+  display: block;
+  margin-top:2px;
+
+}
+
+.conteudo6{
+
+  width: 850px;
+  height: 80px;
+  padding: 5px;
+  /*border: 1px solid #000;*/
+  float: left;
+  margin-left: 175px;
+  padding: 15px;
+  display: block;
+  margin-top:2px;
+
+}
+
+.conteudo7{
+
+  width: 1200px;
+  height: 680px;
+  padding: 5px;
+  /*border: 1px solid #000;*/
+  float: left;
+
+}
+
+.conteudo8{
+
+  width: 1200px;
+  height: 1280px;
+  padding: 5px;
+  /*border: 1px solid #000;*/
+  float: left;
+
+}
+
+.text-final{
+
+float: left!important;
+margin-right: 650px;
+
+}
+
+label{
+  float: left;
+  margin-left: 190px;
+  margin-top: 10px;
+  font-size: 19px;
+  font-weight: bold;
+  padding-right: 60px;
+}
+.new-input-1[type="text"] {
+
+
+  width: 550px;
+  height: 16px;
+  background-color: #FEC212;
+  border: 1px solid #333;
+  border-radius: none;
+  float: left;
+  margin-top: 20px;
+  margin-right: 350px;
+
+}
+
+.new-input-2[type="text"] {
+
+
+  width: 380px;
+  height: 16px;
+  background-color: #FEC212;
+  border: 1px solid #333;
+  border-radius: none;
+  float: left;
+  margin-top: 20px;
+  margin-right: 350px;
+
+}
+
+footer{
+
+
+}
+
+.kit-traducao{
+
+  float: left;
+  margin-left: 175px;
+  display: block;
+  color:#333;
+  text-align: left;
+  padding: 5px;
+  margin-bottom: 50px;
+
+}
+
+
+.condicoes{
+
+  text-align: center;
+  margin-top: 80px;
+  float: left;
+  margin-left: 150px;
+
+
+}
+
+.ul-condicoes{
+
+float: left;
+text-align: left;
+
+}
+
+.text-definir{
+
+  float: left;
+  text-align: left;
+  margin-top: 50px;
+  margin-right: 500px;
+  font-size: 22px;
+
+}
+
+.proposta-comercial{
+
+  float: left;
+  text-align: justify;
+  margin-top: 50px;
+  margin-right: 280px;
+  font-size: 18px;
+
+}
+
+.title-proposta{
+
+    float: left;
+    margin-left: 20px;
+    text-transform: uppercase;
+}
+
+
+
+/*--------------------------------*/
